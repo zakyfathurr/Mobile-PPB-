@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "452267324025",
+    "project_id": "trash-sorter-9c475",
+    "storage_bucket": "trash-sorter-9c475.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452267324025:android:38bfc211908a4b51d81aa8",
+        "android_client_info": {
+          "package_name": "com.example.trash_sorter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpzZndWtWWyYEYuVBxhJAKLpsboSF4ED8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
