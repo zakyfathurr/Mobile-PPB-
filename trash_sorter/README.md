@@ -228,3 +228,7 @@ curl -X POST http://localhost:3000/trash \
 
 ### Screenshots
 <img width="339" height="655" alt="image" src="https://github.com/user-attachments/assets/6ae1bb09-fa8a-4350-a5cb-0f054adfb9af" />
+
+<img width="327" height="725" alt="image" src="https://github.com/user-attachments/assets/d1fb8303-0f6a-4e87-bb8a-93a9d8af30d6" />
+
+<img width="336" height="748" alt="image" src="https://github.com/user-attachments/assets/ac7dfc32-46bd-4e47-a597-5b91015ade11" />
