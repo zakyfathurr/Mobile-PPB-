@@ -225,3 +225,6 @@ curl -X POST http://localhost:3000/trash \
 | `cors` | Cross-origin requests |
 | `dotenv` | Environment config |
 | `nodemon` | Dev auto-restart |
+
+### Screenshots
+<img width="339" height="655" alt="image" src="https://github.com/user-attachments/assets/6ae1bb09-fa8a-4350-a5cb-0f054adfb9af" />
